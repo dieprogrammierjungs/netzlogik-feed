@@ -1,0 +1,12 @@
+{
+  "include": [
+    "datenschutz",
+    "it-sicherheit",
+    "security",
+    "software",
+    "entwicklung",
+    "open source",
+    "linux"
+  ],
+  "exclude": []
+}

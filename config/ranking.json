@@ -1,0 +1,10 @@
+{
+  "weights": {
+    "like": 1,
+    "repost": 2,
+    "reply": 0.5,
+    "boostedAccount": 5,
+    "freshness": 3
+  },
+  "maxAgeHours": 48
+}
